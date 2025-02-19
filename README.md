@@ -14,26 +14,26 @@
 ✅ Easy Contact – Quick access to reach out via email or social links.
 
 🛠️ Technologies Used
-React – Component-based UI development
-Tailwind CSS – Utility-first styling framework
-Lenis – Smooth scrolling effects
-GSAP – High-performance animations
+React – Component-based UI development  
+Tailwind CSS – Utility-first styling framework  
+Lenis – Smooth scrolling effects  
+GSAP – High-performance animations  
 Vite – Lightning-fast development and bundling
 
-📂 Sections
-🏆 About
+📂 Sections  
+🏆 About  
 A brief introduction about me, my skills, and my passion for building innovative projects.
 
-💼 Projects
+💼 Projects  
 A curated collection of my best works, each with a description, technologies used, and a live demo link.
 
-🌟 Reviews
+🌟 Reviews  
 Genuine feedback from clients and colleagues showcasing my expertise and professionalism.
 
-📬 Contact
+📬 Contact  
 Ways to reach me—whether through email, social media, or a direct contact form.
 
-🚀 Installation & Setup
+🚀 Installation & Setup  
 1️⃣ Clone the repository
 
 ```bash
@@ -59,8 +59,8 @@ npm run dev
 npm run build
 ```
 
-📜 License
+📜 License  
 This project is MIT Licensed – feel free to modify and use it for your own portfolio!
 
-👏 Feel free to fork, star ⭐, and contribute!
+👏 Feel free to fork, star ⭐, and contribute!  
 Would love to hear your thoughts! 😃🚀
