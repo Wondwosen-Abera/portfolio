@@ -2,7 +2,7 @@
 
 🚀 A sleek and interactive portfolio website built with React, Tailwind CSS, Lenis, GSAP, and Vite, designed to showcase my projects, skills, and experience.
 
-🔗 Live Demo: [Visit my Portfolio](https://claudechef.netlify.app/)
+🔗 Live Demo: [Visit my Portfolio](https://wondwosendev.netlify.app/)
 
 📌 Features
 ✅ Smooth Scrolling – Powered by Lenis for buttery-smooth navigation.
