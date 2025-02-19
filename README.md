@@ -5,12 +5,12 @@
 🔗 Live Demo: [Visit my Portfolio](https://wondwosendev.netlify.app/)
 
 📌 Features
-✅ Smooth Scrolling – Powered by Lenis for buttery-smooth navigation.
-✅ Dynamic Animations – Engaging GSAP animations for an interactive experience.
-✅ Modern UI/UX – Minimalistic and fully responsive design using Tailwind CSS.
-✅ Fast & Efficient – Optimized performance with Vite for lightning-fast loading.
-✅ Projects Showcase – Displaying my best works with detailed previews.
-✅ Client Reviews – Featuring testimonials from past clients & collaborators.
+✅ Smooth Scrolling – Powered by Lenis for buttery-smooth navigation.  
+✅ Dynamic Animations – Engaging GSAP animations for an interactive experience.  
+✅ Modern UI/UX – Minimalistic and fully responsive design using Tailwind CSS.  
+✅ Fast & Efficient – Optimized performance with Vite for lightning-fast loading.  
+✅ Projects Showcase – Displaying my best works with detailed previews.  
+✅ Client Reviews – Featuring testimonials from past clients & collaborators.  
 ✅ Easy Contact – Quick access to reach out via email or social links.
 
 🛠️ Technologies Used
