@@ -10,6 +10,12 @@
 import ProjectCard from "./ProjectCard";
 const works = [
   {
+    imgSrc: "/images/Hoobank.png",
+    title: "HooBank landing page",
+    tags: ["Web-design", "Development"],
+    projectLink: "https://hoobankhome.netlify.app/",
+  },
+  {
     imgSrc: "/images/project-1.png",
     title: "Recipe suggestion app",
     tags: ["API", "AI", "Development"],
