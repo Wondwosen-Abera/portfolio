@@ -3,6 +3,8 @@
  * @license Apache-2.0
  */
 
+import { getImagePath } from "../utils/paths";
+
 const aboutItems = [
   {
     label: "Project done",
@@ -41,7 +43,7 @@ const About = () => {
               </div>
             ))}
             <img
-              src="/images/logo.svg"
+              src={getImagePath("logo.svg")}
               alt="Logo"
               width={30}
               height={30}

@@ -8,9 +8,10 @@
  * Components
  */
 import ProjectCard from "./ProjectCard";
+import { getImagePath } from "../utils/paths";
 const works = [
   {
-    imgSrc: "/images/warkalink-dispatch.png",
+    imgSrc: getImagePath("warkalink-dispatch.png"),
     title: "Warkalink Dispatch",
     tags: [
       "Web-design",
@@ -22,55 +23,55 @@ const works = [
     projectLink: "https://dispatch.warkalink.net/",
   },
   {
-    imgSrc: "/images/warkalink-bpo.png",
+    imgSrc: getImagePath("warkalink-bpo.png"),
     title: "Warkalink BPO",
     tags: ["Web-design", "Development", "Chatbot"],
     projectLink: "https://warkalink.net/",
   },
   {
-    imgSrc: "/images/selam-restaurant.png",
+    imgSrc: getImagePath("selam-restaurant.png"),
     title: "Selam Restaurant",
     tags: ["Web-design", "Development", "Restaurant-Management"],
     projectLink: "https://selam-ethiopian-restaurant.vercel.app/",
   },
   {
-    imgSrc: "/images/Hoobank.png",
+    imgSrc: getImagePath("Hoobank.png"),
     title: "HooBank landing page",
     tags: ["Web-design", "Development"],
     projectLink: "https://hoobankhome.netlify.app/",
   },
   {
-    imgSrc: "/images/project-1.png",
+    imgSrc: getImagePath("project-1.png"),
     title: "Recipe suggestion app",
     tags: ["API", "AI", "Development"],
     projectLink: "https://claudechef.netlify.app/",
   },
   {
-    imgSrc: "/images/project-2.png",
+    imgSrc: getImagePath("project-2.png"),
     title: "Fitness app",
     tags: ["API", "Fitness", "Development"],
     projectLink: "https://goldsgymzone.netlify.app/",
   },
   {
-    imgSrc: "/images/project-3.png",
+    imgSrc: getImagePath("project-3.png"),
     title: "Assembly end game",
     tags: ["Game", "Development"],
     projectLink: "https://assemblyendgame.netlify.app/",
   },
   {
-    imgSrc: "/images/project-4.png",
+    imgSrc: getImagePath("project-4.png"),
     title: "Tenzies gameplay",
     tags: ["Game", "Development"],
     projectLink: "https://tenziesgameplay.netlify.app/",
   },
   {
-    imgSrc: "/images/project-5.jpg",
+    imgSrc: getImagePath("project-5.jpg"),
     title: "eCommerce website",
     tags: ["eCommerce", "Development"],
     projectLink: "https://wondwosen-abera.github.io/ecommerce-website/",
   },
   {
-    imgSrc: "/images/project-6.png",
+    imgSrc: getImagePath("project-6.png"),
     title: "Admin dashboard",
     tags: ["Admin", "Web-design", "Development"],
     projectLink: "https://uradmindashboard.netlify.app/",
