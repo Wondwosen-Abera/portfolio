@@ -10,6 +10,30 @@
 import ProjectCard from "./ProjectCard";
 const works = [
   {
+    imgSrc: "/images/warkalink-dispatch.png",
+    title: "Warkalink Dispatch",
+    tags: [
+      "Web-design",
+      "Development",
+      "Chatbot",
+      "Spreadsheet-Integration",
+      "Data-Analysis",
+    ],
+    projectLink: "https://dispatch.warkalink.net/",
+  },
+  {
+    imgSrc: "/images/warkalink-bpo.png",
+    title: "Warkalink BPO",
+    tags: ["Web-design", "Development", "Chatbot"],
+    projectLink: "https://warkalink.net/",
+  },
+  {
+    imgSrc: "/images/selam-restaurant.png",
+    title: "Selam Restaurant",
+    tags: ["Web-design", "Development", "Restaurant-Management"],
+    projectLink: "https://selam-ethiopian-restaurant.vercel.app/",
+  },
+  {
     imgSrc: "/images/Hoobank.png",
     title: "HooBank landing page",
     tags: ["Web-design", "Development"],

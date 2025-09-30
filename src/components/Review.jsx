@@ -33,13 +33,6 @@ const reviews = [
   },
   {
     content:
-      "Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.",
-    name: "Ethan Caldwell",
-    imgSrc: "/images/people-2.jpg",
-    company: "NexaWave",
-  },
-  {
-    content:
       "Outstanding developer! Built a robust site with perfect functionality. Efficient and detail-oriented.",
     name: "Liam Bennett",
     imgSrc: "/images/people-3.jpg",
@@ -47,11 +40,19 @@ const reviews = [
   },
   {
     content:
-      "Creative and skilled! Produced a modern, user-friendly site that exceeded expectations. Great communication.",
-    name: "Noah Williams",
-    imgSrc: "/images/people-4.jpg",
-    company: "BrightWeb",
+      "Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.",
+    name: "Nigus",
+    imgSrc: "/images/people-2.jpg",
+    company: "Warkalink",
   },
+  {
+    content:
+      "Creative and skilled! Produced a modern, user-friendly site that exceeded expectations. Great communication.",
+    name: "Jakob",
+    imgSrc: "/images/people-4.jpg",
+    company: "Amplitude Ventures",
+  },
+
   {
     content:
       "Professional work! Delivered on time, with a polished design and smooth user experience. Top-notch developer.",
@@ -83,7 +84,7 @@ const Review = () => {
   return (
     <section id="reviews" className="section overflow-hidden">
       <div className="container">
-        <h2 className="headline-2 mb-8 reveal-up">What our customers say</h2>
+        <h2 className="headline-2 mb-8 reveal-up">What my customers say</h2>
         <div className="scrub-slide flex items-stretch gap-3 w-fit">
           {reviews.map(({ content, name, imgSrc, company }, key) => (
             <ReviewCard
