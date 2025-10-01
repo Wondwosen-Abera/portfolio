@@ -5,4 +5,8 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/portfolio/", // Replace 'portfolio-project' with your actual repository name
+  build: {
+    assetsDir: "assets",
+  },
+  assetsInclude: ["**/*.svg"],
 });

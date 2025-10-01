@@ -9,45 +9,46 @@
  */
 
 import SkillCard from "./SkillCard";
+import { getImagePath } from "../utils/paths";
 
 const skillItem = [
   {
-    imgSrc: "/images/figma.svg",
+    imgSrc: getImagePath("figma.svg"),
     label: "Figma",
     desc: "Design tool",
   },
   {
-    imgSrc: "/images/css3.svg",
+    imgSrc: getImagePath("css3.svg"),
     label: "CSS",
     desc: "User Interface",
   },
   {
-    imgSrc: "/images/javascript.svg",
+    imgSrc: getImagePath("javascript.svg"),
     label: "JavaScript",
     desc: "Interaction",
   },
   {
-    imgSrc: "/images/nodejs.svg",
+    imgSrc: getImagePath("nodejs.svg"),
     label: "NodeJS",
     desc: "Web Server",
   },
   {
-    imgSrc: "/images/expressjs.svg",
+    imgSrc: getImagePath("expressjs.svg"),
     label: "ExpressJS",
     desc: "Node Framework",
   },
   {
-    imgSrc: "/images/mongodb.svg",
+    imgSrc: getImagePath("mongodb.svg"),
     label: "MongoDB",
     desc: "Database",
   },
   {
-    imgSrc: "/images/react.svg",
+    imgSrc: getImagePath("react.svg"),
     label: "React",
     desc: "Framework",
   },
   {
-    imgSrc: "/images/tailwindcss.svg",
+    imgSrc: getImagePath("tailwindcss.svg"),
     label: "TailwindCSS",
     desc: "User Interface",
   },
